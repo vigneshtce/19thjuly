@@ -1,0 +1,13 @@
+body
+{
+  width:600px;
+  margin: auto;
+}
+
+ul li
+{
+  display:inline;
+}
+a{
+  text-decoration: none;
+}
