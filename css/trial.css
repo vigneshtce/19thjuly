@@ -29,7 +29,7 @@ a
 ul a
 {
   display: inline;
-  padding-left: 20px;
+  padding-left: 10px;
   color: #ffffff;
 }
 ul a:hover
@@ -49,13 +49,13 @@ body{
 }
 .grid_4
 {
-  font-family:sans-serif;;
+  font-family:sans-serif;
   padding-left: -5px;
   font-size: 20px;
   background-image: url("../bg3.jpg");
   text-align:justify;
   height: 680px;
-  color: #e68a00;
+  color: #e6e6e6;
   font-style: italic;
 }
 li
